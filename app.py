@@ -14,7 +14,7 @@ JOBS = [
         'id': 2,
         'company': 'Umbrella-Corp',
         'position': 'Umbrella-Maker',
-        'salaray': '$400'
+        'salary': '$400'
     },
     {
         'id': 3,
